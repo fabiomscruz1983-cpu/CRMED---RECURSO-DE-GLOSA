@@ -4,6 +4,7 @@
  */
 
 import React, { useState, useEffect } from 'react';
+import { Analytics } from '@vercel/analytics/react';
 import { Plano, Glosa, Recurso, SystemNotification } from './types';
 import {
   getPlanos,
@@ -767,6 +768,7 @@ export default function App() {
           )}
         </main>
       </div>
+      <Analytics />
     </div>
   );
 }
