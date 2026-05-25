@@ -1,0 +1,6 @@
+{
+  "name": "Recurso de Glosa",
+  "description": "Sistema de gestão de convênios, cadastro de glosas, criação e acompanhamento de recursos de glosas com relatórios e dashboard integrados.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
